@@ -1,7 +1,7 @@
 
 # Ban Plugin
 
-Plugin made for [DevRoom Team](https://twitter.com/devroomteam).
+Plugin made by [jp_strapasson]().
 
 ## Imports
 I'm using:
